@@ -1,0 +1,119 @@
+[en]
+SATCHEL_CONTROLS_TITLE = Swap Satchel Controls
+SATCHEL_CONTROLS_ENABLED = Enabled
+SATCHEL_CONTROLS_DISABLED = Disabled
+
+[es]
+SATCHEL_CONTROLS_TITLE = Cambiar controles de la carga explosiva
+SATCHEL_CONTROLS_ENABLED = Activado
+SATCHEL_CONTROLS_DISABLED = Desactivado
+
+[bp]
+SATCHEL_CONTROLS_TITLE = Alternar controles da carga explosiva
+SATCHEL_CONTROLS_ENABLED = Ativado
+SATCHEL_CONTROLS_DISABLED = Desativado
+
+[de]
+SATCHEL_CONTROLS_TITLE = Sprengsatz-Steuerung wechseln
+SATCHEL_CONTROLS_ENABLED = Aktiviert
+SATCHEL_CONTROLS_DISABLED = Deaktiviert
+
+[sr]
+SATCHEL_CONTROLS_TITLE = Zameni kontrole za eksploziv
+SATCHEL_CONTROLS_ENABLED = Omogućeno
+SATCHEL_CONTROLS_DISABLED = Onemogućeno
+
+[sv]
+SATCHEL_CONTROLS_TITLE = Byt styrning för sprängladdning
+SATCHEL_CONTROLS_ENABLED = Aktiverad
+SATCHEL_CONTROLS_DISABLED = Avaktiverad
+
+[fr]
+SATCHEL_CONTROLS_TITLE = Changer les commandes de la charge
+SATCHEL_CONTROLS_ENABLED = Activé
+SATCHEL_CONTROLS_DISABLED = Désactivé
+
+[tr]
+SATCHEL_CONTROLS_TITLE = Patlayıcı kontrolünü değiştir
+SATCHEL_CONTROLS_ENABLED = Etkin
+SATCHEL_CONTROLS_DISABLED = Devre dışı
+
+[cz]
+SATCHEL_CONTROLS_TITLE = Přepnout ovládání nálože
+SATCHEL_CONTROLS_ENABLED = Zapnuto
+SATCHEL_CONTROLS_DISABLED = Vypnuto
+
+[nl]
+SATCHEL_CONTROLS_TITLE = Wissel springlading-bediening
+SATCHEL_CONTROLS_ENABLED = Ingeschakeld
+SATCHEL_CONTROLS_DISABLED = Uitgeschakeld
+
+[pl]
+SATCHEL_CONTROLS_TITLE = Zmień sterowanie ładunkiem
+SATCHEL_CONTROLS_ENABLED = Włączone
+SATCHEL_CONTROLS_DISABLED = Wyłączone
+
+[da]
+SATCHEL_CONTROLS_TITLE = Skift kontrol for sprængladning
+SATCHEL_CONTROLS_ENABLED = Aktiveret
+SATCHEL_CONTROLS_DISABLED = Deaktiveret
+
+[bg]
+SATCHEL_CONTROLS_TITLE = Смяна на управление на взрив
+SATCHEL_CONTROLS_ENABLED = Включено
+SATCHEL_CONTROLS_DISABLED = Изключено
+
+[ro]
+SATCHEL_CONTROLS_TITLE = Comută comenzile încărcăturii
+SATCHEL_CONTROLS_ENABLED = Activat
+SATCHEL_CONTROLS_DISABLED = Dezactivat
+
+[hu]
+SATCHEL_CONTROLS_TITLE = Robbanószer vezérlés váltása
+SATCHEL_CONTROLS_ENABLED = Engedélyezve
+SATCHEL_CONTROLS_DISABLED = Letiltva
+
+[lt]
+SATCHEL_CONTROLS_TITLE = Keisti sprogmens valdymą
+SATCHEL_CONTROLS_ENABLED = Įjungta
+SATCHEL_CONTROLS_DISABLED = Išjungta
+
+[sk]
+SATCHEL_CONTROLS_TITLE = Zmeniť ovládanie nálože
+SATCHEL_CONTROLS_ENABLED = Zapnuté
+SATCHEL_CONTROLS_DISABLED = Vypnuté
+
+[mk]
+SATCHEL_CONTROLS_TITLE = Промени контроли на експлозив
+SATCHEL_CONTROLS_ENABLED = Вклучено
+SATCHEL_CONTROLS_DISABLED = Исклучено
+
+[hr]
+SATCHEL_CONTROLS_TITLE = Zamijeni kontrole eksploziva
+SATCHEL_CONTROLS_ENABLED = Omogućeno
+SATCHEL_CONTROLS_DISABLED = Onemogućeno
+
+[bs]
+SATCHEL_CONTROLS_TITLE = Zamijeni kontrole eksploziva
+SATCHEL_CONTROLS_ENABLED = Omogućeno
+SATCHEL_CONTROLS_DISABLED = Onemogućeno
+
+[ru]
+SATCHEL_CONTROLS_TITLE = Переключить управление зарядом
+SATCHEL_CONTROLS_ENABLED = Включено
+SATCHEL_CONTROLS_DISABLED = Выключено
+
+[cn]
+SATCHEL_CONTROLS_TITLE = 切换炸药控制
+SATCHEL_CONTROLS_ENABLED = 已启用
+SATCHEL_CONTROLS_DISABLED = 已禁用
+
+[al]
+SATCHEL_CONTROLS_TITLE = Ndrysho komandat e eksplozivit
+SATCHEL_CONTROLS_ENABLED = Aktivizuar
+SATCHEL_CONTROLS_DISABLED = Çaktivizuar
+
+[pt]
+SATCHEL_CONTROLS_TITLE = Alternar controlos da carga explosiva
+SATCHEL_CONTROLS_ENABLED = Ativado
+SATCHEL_CONTROLS_DISABLED = Desativado
