@@ -69,11 +69,7 @@ public client_authorized(iClient)
 	}
 }
 
-#if AMXX_VERSION_NUM < 183
-public client_disconnect(iClient)
-#else
-public client_disconnected(iClient)
-#endif
+public client_connect(iClient)
 {
     g_bUserSatchelSwapped[iClient] = false;
 }
